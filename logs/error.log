@@ -1,0 +1,2 @@
+2025/09/21 16:06:21 [emerg] 176275#176275: "access_log" directive is not allowed here in /home/tanmoy/Desktop/experiments/restyproxy/conf/nginx.conf:3
+2025/09/21 16:11:05 [emerg] 177549#177549: "lua_package_path" directive is duplicate in /home/tanmoy/Desktop/experiments/restyproxy/conf/nginx.conf:20
